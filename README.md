@@ -1,7 +1,7 @@
 # Databricks-PySpark-ML
 ISM6562 - Final Project using Databricks and PySpark for developing ML models
 
-Adgenda:
+Agenda:
   Identify problem and acquire dataset
   Sanitize data
   Perform feature engineering
