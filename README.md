@@ -10,4 +10,4 @@ Agenda:
   Perform Geospatial feature engineering,
   Build and analyze a Decision Tree Regression model,
   
-  Presentation published at: https://youtu.be/wa7elIVP3vs
+  Video Presentation published at: https://youtu.be/wa7elIVP3vs
